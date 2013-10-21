@@ -6,8 +6,8 @@ gem 'rails', '3.0.1'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'pg'
-gem 'rdoc'
-gem 'rake', '10.1.0'
+gem 'rdoc', '2.4.2'
+gem 'rake', '0.8.7'
 
 
 # Use unicorn as the web server
